@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(32, 32, 32);
+    background-color: rgb(247, 247, 247);
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: rgb(250, 241, 241);
+    background-color: rgb(240, 143, 32);
     margin: 50px 0px 0px 0px;
     width: 600px;
     border-radius: 16px;
@@ -25,7 +25,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(199, 195, 195);
+    background-color: rgb(255, 255, 255);
     margin: 20px 0px 20px 0px;
     width: 500px;
     height: 80px;
@@ -39,13 +39,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(34, 155, 177);
-    color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    color: black;
     margin: 20px 0px 20px 0px;
     width: 200px;
     height: 40px;
     border-radius: 8px;
-    border-color: rgb(34, 155, 177);
+    border-color: rgb(255, 255, 255);
     box-shadow: 2px 2px 8px black;
     
 }
@@ -62,7 +62,7 @@ h1{
     justify-content: center;
     align-items: center;
     margin: 100px 0px 0px 0px;
-    color: rgb(34, 155, 177);
+    color: rgb(240, 143, 32);
 
 }
 
@@ -76,6 +76,21 @@ h1{
 }
 
 .desenhos{
-    background-color: rgb(211, 230, 230);
+    background-color: rgb(240, 143, 32);
     width: 100px;
+    height: 20px;
+    margin: 30px 4px 0px 4px;
+    border-radius: 8px;
+    padding: 2px;
+    color:rgb(255, 255, 255)
+}
+
+.filmes{
+    background-color: rgb(240, 143, 32);
+    width: 100px;
+    height: 20px;
+    margin: 30px 4px 0px 4px;
+    border-radius: 8px;
+    padding: 2px;
+    color:rgb(255, 255, 255);
 }
